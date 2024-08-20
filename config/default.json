@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://kounkourene:kounkourene123@devconnecter.9gfy1.mongodb.net/?retryWrites=true&w=majority&appName=DevConnecter",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "Ov23liSkDtwwCKfJ9Fxt",
+  "githubClientSecret": "24de71046df623e4f1495b1a6a3b6f33c4a3b252"
 }
